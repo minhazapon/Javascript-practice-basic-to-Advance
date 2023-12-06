@@ -1,0 +1,3 @@
+
+
+document.write("minhaz" + "apon");
